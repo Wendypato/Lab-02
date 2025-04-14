@@ -1,0 +1,6 @@
+// basic code
+f b
+i a
+a = 5
+b = a + 5.5
+p b
